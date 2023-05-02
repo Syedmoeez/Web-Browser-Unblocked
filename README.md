@@ -1,4 +1,4 @@
-# Cloaked Tab
+# Web Browser Unblocked
 Brandon's Built In Browser
 
 First Fork the repo- then go to settings- you will see a tab called pages-
